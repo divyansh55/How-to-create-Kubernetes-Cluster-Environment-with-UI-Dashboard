@@ -1,1 +1,4 @@
 https://www.howtoforge.com/tutorial/centos-kubernetes-docker-cluster/
+
+Challanges:  not getting starting kubelet service.
+Solution: After cluster initilization ,server got started
